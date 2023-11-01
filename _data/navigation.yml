@@ -1,0 +1,66 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Getting Started"
+    url: /getting-started
+  - title: "Hub Software"
+    url: /managing-hub-software
+  - title: "Devices"
+    url: /managing-devices
+  - title: "PC"
+    url: /managing-pc
+  - title: "Troubleshooting"
+    url: /troubleshooting
+
+docs:
+  - title: Getting Started
+    children:
+      - title: "Getting Started"
+        url: /getting-started/
+      - title: "Know Your System"
+        url: /getting-started/know-your-system
+      - title: "Operating Self-Service (Kiosk) Mode"
+        url: /getting-started/operating-kiosk-mode
+      - title: "Operating Full-Service (FEC) Mode"
+        url: /getting-started/operating-fec-mode
+  - title: Installing MagneTag Hub Software
+    children:
+      - title: "Installing MagneTag Hub Software"
+        url: /installing-hub-software/
+      - title: "Troubleshooting MagneTag Hub Installations"
+        url: /installing-hub-software/troubleshooting.md
+  - title: Managing MagneTag Hub Software
+    children:
+      - title: "Managing MagneTag Hub Software"
+        url: /managing-hub-software/
+      - title: "Self-Service (Kiosk) Controller"
+        url: /managing-hub-software/self-service-controller
+      - title: "Full-Service (FEC) Controller"
+        url: /managing-hub-software/full-service-controller
+      - title: "Tournament Controller"
+        url: /managing-hub-software/tournament-controller
+      - title: "Admin Controller"
+        url: /managing-hub-software/admin-controller
+      - title: "Configuration Options"
+        url: /managing-hub-software/configuration-options
+  - title: Managing Devices
+    children:
+      - title: "Managing MagneTag Devices"
+        url: /managing-devices/
+      - title: "Configuring Devices"
+        url: /managing-devices/configuring-devices
+  - title: Managing MagneTag PC
+    children:
+      - title: "Managing MagneTag PC"
+        url: /managing-pc/
+      - title: "Hub Shell"
+        url: /managing-pc/hub-shell
+      - title: "Administering PC"
+        url: /managing-pc/administering-pc
+  - title: Managing the MagneTag Network
+    url: /managing-network
+  - title: Troubleshooting
+    children:
+      - title: "Troubleshooting"
+        url: /troubleshooting/
